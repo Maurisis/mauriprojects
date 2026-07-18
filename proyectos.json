@@ -32,11 +32,11 @@
         ]
     },
     {
-        "nombre": "Geo-Jump Beta 0.4.2 (60 FPS)",
+        "nombre": "Geo-Jump (60 FPS)",
         "descripcion": "Clasico de la esim",
         "imagen": "img/geo.webp",
         "link": "https://www.mediafire.com/file/aqda6q24rv4w5uq/geojump.zip/file",
-        "version": "0.4.2",
+        "version": "Beta 0.4.2",
         "tags": [
             "ESIM",
             "Juego"
