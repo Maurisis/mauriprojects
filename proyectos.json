@@ -6,7 +6,6 @@
         "link": "https://drive.google.com/file/d/1b59Uy6eEDb5Tv9SXrrNYsd07LGkDqPJv/view?usp=sharing",
         "version": "1.0",
         "tags": [
-            "Windows",
             "Juego"
         ]
     },
@@ -19,7 +18,49 @@
         "link": "https://drive.google.com/file/d/1X-71VCYc9t6cTlZXv2yZquYadbq14JTB/view?usp=sharing",
         "version": "1.01.32",
         "tags": [
-            "Windows",
+            "Juego"
+        ]
+    },
+    {
+        "nombre": "Duck Game",
+        "descripcion": "El juego de los patos que se cagan a tiros",
+        "imagen": "img/duck.webp",
+        "link": "https://www.mediafire.com/file/h18mqhp8hzu9ifg/duckgame.zip/file",
+        "version": "4.0",
+        "tags": [
+            "Juego"
+        ]
+    },
+    {
+        "nombre": "Geo-Jump Beta 0.4.2 (60 FPS)",
+        "descripcion": "Clasico de la esim",
+        "imagen": "img/geo.webp",
+        "link": "https://www.mediafire.com/file/aqda6q24rv4w5uq/geojump.zip/file",
+        "version": "1.01.32",
+        "tags": [
+            "ESIM",
+            "Juego"
+        ]
+    },
+    {
+        "nombre": "Mauri Prod Mod",
+        "descripcion": "Mod que no termine de minecraft, pero tiene muchas cosas...",
+        "imagen": "img/mauri.webp",
+        "link": "https://www.mediafire.com/file/br4gyw5s90r9oht/mauriprod-2.0.0-neoforge-1.21.8.jar/file",
+        "version": "2.0.0 1.21.8 Neoforge",
+        "tags": [
+            "ESIM",
+            "Mod"
+        ]
+    },
+    {
+        "nombre": "Rat Quest",
+        "descripcion": "El mayor ARG de los videojuegos",
+        "imagen": "img/ratquest.webp",
+        "link": "https://www.mediafire.com/file/9a6zdx2chb5vsid/ratquest.zip/file",
+        "version": "1.8.08",
+        "tags": [
+
             "Juego"
         ]
     }
